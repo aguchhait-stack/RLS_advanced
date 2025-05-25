@@ -1,0 +1,1001 @@
+TransactionID,Region,Department,Amount
+2000,West,Finance,4669
+2001,East,Finance,786
+2002,Central,Finance,4030
+2003,Central,HR,2957
+2004,East,IT,4117
+2005,Pacific,Marketing,4262
+2006,North,HR,1582
+2007,North,IT,3911
+2008,East,Logistics,2218
+2009,Pacific,IT,764
+2010,Central,Sales,1683
+2011,Pacific,Sales,1563
+2012,East,HR,2254
+2013,South,Finance,2104
+2014,Pacific,Finance,4910
+2015,East,Marketing,504
+2016,North,Customer Service,3175
+2017,South,IT,2979
+2018,South,Logistics,3117
+2019,South,IT,423
+2020,South,IT,2215
+2021,Central,HR,2952
+2022,North,Sales,4708
+2023,Central,HR,2442
+2024,Central,Finance,589
+2025,North,IT,4198
+2026,Central,HR,1166
+2027,West,Customer Service,2535
+2028,West,IT,3906
+2029,Central,HR,3879
+2030,South,IT,1699
+2031,Central,Customer Service,3062
+2032,West,Logistics,4855
+2033,East,IT,4596
+2034,Pacific,Marketing,4456
+2035,East,Marketing,3675
+2036,North,IT,954
+2037,Pacific,Finance,4432
+2038,West,Customer Service,1482
+2039,Central,IT,2060
+2040,North,IT,3712
+2041,Central,Sales,4671
+2042,Pacific,Customer Service,2779
+2043,East,Sales,2875
+2044,West,Logistics,2957
+2045,Central,Finance,778
+2046,North,Logistics,4928
+2047,South,Logistics,1555
+2048,Pacific,Marketing,1466
+2049,South,IT,4918
+2050,East,IT,453
+2051,West,Finance,4546
+2052,South,Sales,3178
+2053,South,HR,2123
+2054,South,Sales,2432
+2055,Pacific,Finance,4404
+2056,North,HR,1897
+2057,North,IT,3688
+2058,Pacific,Customer Service,3163
+2059,Central,IT,1905
+2060,West,IT,1863
+2061,Pacific,Marketing,3749
+2062,Central,HR,2237
+2063,West,Sales,4752
+2064,Central,Customer Service,3395
+2065,Pacific,Finance,3335
+2066,Pacific,Logistics,2523
+2067,Central,HR,2395
+2068,Central,Customer Service,910
+2069,North,Logistics,344
+2070,North,Finance,4277
+2071,West,IT,816
+2072,East,Customer Service,4925
+2073,North,IT,1538
+2074,Pacific,Finance,511
+2075,West,Marketing,2661
+2076,West,Customer Service,1615
+2077,Pacific,IT,1099
+2078,Central,Marketing,4358
+2079,East,IT,2301
+2080,East,Customer Service,3500
+2081,South,Customer Service,4011
+2082,West,Finance,4988
+2083,Pacific,Finance,3499
+2084,South,HR,1505
+2085,Pacific,HR,846
+2086,West,IT,3699
+2087,East,IT,4187
+2088,South,Finance,1724
+2089,West,Marketing,2220
+2090,West,Logistics,3123
+2091,East,Sales,1577
+2092,South,Sales,3415
+2093,Central,HR,4766
+2094,South,Finance,406
+2095,Pacific,Customer Service,1546
+2096,Central,Marketing,2283
+2097,East,Customer Service,1800
+2098,Pacific,HR,4323
+2099,North,Marketing,3111
+2100,South,Customer Service,1698
+2101,West,Logistics,2574
+2102,Central,Finance,1392
+2103,East,Marketing,3910
+2104,West,HR,1103
+2105,Central,IT,1453
+2106,East,Sales,1895
+2107,Pacific,IT,744
+2108,North,Finance,1337
+2109,North,HR,911
+2110,West,HR,4754
+2111,East,Sales,4225
+2112,East,Logistics,3167
+2113,West,Logistics,3553
+2114,North,Sales,4706
+2115,Central,Logistics,360
+2116,Central,Sales,2802
+2117,North,Sales,521
+2118,Central,HR,4453
+2119,West,IT,2093
+2120,East,HR,3778
+2121,West,HR,240
+2122,Central,Sales,4014
+2123,Central,HR,1771
+2124,East,Customer Service,3873
+2125,East,Marketing,3180
+2126,South,Logistics,2497
+2127,Pacific,Finance,2097
+2128,South,Sales,3306
+2129,Central,IT,4618
+2130,West,Customer Service,3510
+2131,South,Sales,1843
+2132,South,Sales,3587
+2133,West,Logistics,4289
+2134,Central,Logistics,3114
+2135,Pacific,Marketing,4213
+2136,South,Sales,1274
+2137,Central,IT,2366
+2138,North,Marketing,4515
+2139,Pacific,IT,3891
+2140,North,Marketing,1755
+2141,West,Customer Service,1065
+2142,North,Finance,2561
+2143,North,HR,3086
+2144,Central,Logistics,1522
+2145,East,Logistics,356
+2146,East,Logistics,3899
+2147,Central,IT,4444
+2148,Pacific,Logistics,1371
+2149,East,Finance,404
+2150,East,HR,685
+2151,Central,HR,4770
+2152,Central,Customer Service,3121
+2153,Pacific,HR,3532
+2154,Central,Sales,3594
+2155,Pacific,Marketing,4992
+2156,Pacific,Marketing,2762
+2157,West,IT,813
+2158,North,Customer Service,884
+2159,Central,IT,937
+2160,Central,HR,4782
+2161,Pacific,Customer Service,3437
+2162,South,Marketing,746
+2163,West,Marketing,1728
+2164,West,IT,3830
+2165,Central,Customer Service,2689
+2166,South,Logistics,203
+2167,South,Logistics,2380
+2168,East,Marketing,4797
+2169,East,IT,2077
+2170,South,HR,4099
+2171,West,Marketing,3674
+2172,South,Sales,2632
+2173,Pacific,Sales,1819
+2174,West,HR,1140
+2175,East,Marketing,2532
+2176,Pacific,Sales,3798
+2177,South,Marketing,2047
+2178,Central,Marketing,564
+2179,West,Customer Service,1567
+2180,Central,Finance,96
+2181,Central,Customer Service,4837
+2182,North,Logistics,3242
+2183,Central,Customer Service,3104
+2184,East,IT,1315
+2185,East,IT,955
+2186,East,Finance,1615
+2187,West,IT,4366
+2188,Pacific,HR,289
+2189,North,Finance,2545
+2190,East,HR,602
+2191,North,Customer Service,3921
+2192,Central,Finance,811
+2193,South,Logistics,4600
+2194,South,HR,1776
+2195,Pacific,Customer Service,159
+2196,North,Customer Service,3775
+2197,Pacific,Logistics,2063
+2198,East,Customer Service,2130
+2199,South,Customer Service,2422
+2200,Pacific,Customer Service,340
+2201,Central,IT,2661
+2202,East,Customer Service,4948
+2203,West,Marketing,2681
+2204,East,Logistics,814
+2205,North,HR,1135
+2206,Pacific,HR,3051
+2207,South,Sales,2919
+2208,South,Customer Service,3512
+2209,East,Finance,3519
+2210,West,HR,1552
+2211,Central,Sales,362
+2212,Pacific,IT,112
+2213,Pacific,Marketing,1969
+2214,South,HR,1873
+2215,West,Sales,2817
+2216,East,Finance,3748
+2217,South,Sales,2599
+2218,North,Logistics,3095
+2219,West,Sales,3365
+2220,Pacific,Marketing,3703
+2221,South,Logistics,1038
+2222,Central,Logistics,1281
+2223,Pacific,Logistics,550
+2224,South,HR,4188
+2225,West,HR,724
+2226,East,Marketing,2820
+2227,Pacific,IT,2955
+2228,West,HR,1198
+2229,South,Logistics,4536
+2230,South,Marketing,718
+2231,East,Logistics,673
+2232,Pacific,HR,2928
+2233,Pacific,HR,656
+2234,East,Finance,2186
+2235,Pacific,Marketing,4927
+2236,North,Marketing,1962
+2237,Central,Logistics,4119
+2238,Central,Customer Service,1208
+2239,Pacific,Logistics,989
+2240,North,Logistics,1383
+2241,Pacific,Customer Service,84
+2242,South,Marketing,4299
+2243,North,Sales,1243
+2244,West,Marketing,2090
+2245,South,Logistics,2283
+2246,East,HR,3816
+2247,East,HR,395
+2248,Pacific,HR,1468
+2249,West,Finance,1367
+2250,North,Sales,4105
+2251,North,HR,3804
+2252,Central,Logistics,4479
+2253,North,IT,793
+2254,Pacific,IT,2482
+2255,West,Customer Service,3713
+2256,Central,Sales,2954
+2257,North,Logistics,2658
+2258,Central,Marketing,963
+2259,Central,Sales,4700
+2260,West,Finance,1907
+2261,South,HR,4702
+2262,South,HR,168
+2263,Central,Marketing,2269
+2264,South,HR,3018
+2265,East,Customer Service,1019
+2266,Pacific,HR,219
+2267,South,Marketing,1858
+2268,South,Logistics,3142
+2269,West,Logistics,2699
+2270,South,Customer Service,3196
+2271,North,Customer Service,926
+2272,South,HR,3070
+2273,Central,Sales,4434
+2274,West,Sales,2280
+2275,Central,HR,2003
+2276,Pacific,Logistics,2204
+2277,West,IT,1305
+2278,North,Marketing,230
+2279,South,Sales,3525
+2280,South,Logistics,4972
+2281,South,Customer Service,593
+2282,Central,Marketing,1601
+2283,South,Marketing,1862
+2284,South,Customer Service,448
+2285,West,Finance,3468
+2286,South,Logistics,2184
+2287,East,Finance,1138
+2288,Pacific,Marketing,4963
+2289,South,Customer Service,1655
+2290,South,Sales,1629
+2291,Pacific,HR,97
+2292,Central,Customer Service,910
+2293,West,Customer Service,1999
+2294,East,Customer Service,935
+2295,Central,Sales,278
+2296,North,Finance,366
+2297,Central,IT,2328
+2298,North,HR,1900
+2299,West,Sales,2711
+2300,West,HR,3735
+2301,North,Sales,4682
+2302,Central,IT,1947
+2303,South,HR,3633
+2304,East,Sales,473
+2305,East,Finance,1281
+2306,South,Finance,3402
+2307,West,Marketing,4772
+2308,South,IT,2861
+2309,East,Marketing,1767
+2310,West,Sales,847
+2311,Central,Marketing,4905
+2312,West,IT,2063
+2313,Pacific,IT,4405
+2314,West,Sales,3169
+2315,West,Sales,4841
+2316,South,Logistics,3441
+2317,Pacific,Logistics,3043
+2318,Central,Customer Service,2089
+2319,South,Finance,988
+2320,Central,Finance,2271
+2321,Pacific,Sales,506
+2322,West,Sales,2630
+2323,Pacific,Sales,3564
+2324,Pacific,Sales,2451
+2325,West,Sales,4160
+2326,Pacific,Logistics,3998
+2327,Central,IT,3971
+2328,South,Logistics,1566
+2329,Central,HR,69
+2330,East,Customer Service,516
+2331,East,Sales,4826
+2332,North,IT,943
+2333,Pacific,Marketing,3504
+2334,North,Logistics,4814
+2335,West,Marketing,2154
+2336,North,Sales,2306
+2337,West,Finance,3895
+2338,West,IT,4305
+2339,East,Marketing,1948
+2340,Pacific,IT,3759
+2341,South,Logistics,4925
+2342,Central,HR,4385
+2343,Pacific,Sales,3635
+2344,Central,HR,3269
+2345,West,Customer Service,3088
+2346,East,Marketing,3164
+2347,West,Marketing,907
+2348,West,HR,3727
+2349,Central,Marketing,4398
+2350,West,Logistics,2078
+2351,West,HR,4308
+2352,Pacific,Customer Service,2120
+2353,Pacific,Marketing,3135
+2354,East,Customer Service,3448
+2355,South,Logistics,2591
+2356,West,Finance,3973
+2357,Central,Logistics,1783
+2358,West,Sales,4866
+2359,South,Marketing,3747
+2360,Central,IT,1925
+2361,West,Logistics,3900
+2362,North,Customer Service,665
+2363,North,Logistics,1745
+2364,West,Logistics,3228
+2365,North,Logistics,3232
+2366,East,Marketing,216
+2367,Central,Logistics,3574
+2368,East,IT,1773
+2369,Central,HR,1056
+2370,Central,IT,3128
+2371,East,Customer Service,2231
+2372,South,Logistics,4629
+2373,East,Finance,3003
+2374,Central,Finance,4459
+2375,North,Sales,369
+2376,East,Sales,3374
+2377,South,Customer Service,4269
+2378,Central,Finance,4413
+2379,South,Finance,4329
+2380,Pacific,Logistics,4086
+2381,Pacific,Customer Service,3371
+2382,East,Customer Service,2318
+2383,North,Logistics,1307
+2384,Pacific,Sales,4786
+2385,South,Finance,3074
+2386,East,Logistics,2032
+2387,Pacific,Sales,2806
+2388,West,IT,2323
+2389,West,Customer Service,273
+2390,North,HR,4154
+2391,West,Finance,1312
+2392,West,IT,3833
+2393,East,Customer Service,86
+2394,North,Marketing,3868
+2395,North,Marketing,3375
+2396,North,Customer Service,476
+2397,North,Sales,2845
+2398,West,Customer Service,2539
+2399,Central,Sales,157
+2400,Pacific,Logistics,1574
+2401,East,Customer Service,4577
+2402,South,Logistics,1671
+2403,West,Sales,2215
+2404,West,IT,2857
+2405,North,Sales,249
+2406,North,Marketing,4737
+2407,Pacific,IT,2427
+2408,Pacific,Sales,808
+2409,Pacific,HR,1024
+2410,North,HR,3347
+2411,Central,Customer Service,3240
+2412,South,Sales,3583
+2413,North,Sales,2858
+2414,West,Sales,4178
+2415,East,IT,4347
+2416,North,Finance,1994
+2417,East,Logistics,4016
+2418,East,Sales,4302
+2419,East,Sales,218
+2420,East,Customer Service,1562
+2421,South,Customer Service,2623
+2422,Central,Logistics,578
+2423,Pacific,HR,2458
+2424,South,Marketing,2110
+2425,Central,Sales,1374
+2426,South,HR,3963
+2427,East,IT,1399
+2428,Pacific,HR,4451
+2429,West,Marketing,4601
+2430,West,HR,1631
+2431,East,HR,1167
+2432,Pacific,IT,4066
+2433,Pacific,Finance,4397
+2434,South,Sales,2094
+2435,Pacific,IT,4827
+2436,East,Customer Service,809
+2437,West,Finance,2353
+2438,North,Logistics,1166
+2439,North,IT,2794
+2440,Central,Customer Service,4154
+2441,Pacific,Customer Service,526
+2442,South,Customer Service,154
+2443,North,Sales,702
+2444,West,IT,1295
+2445,East,Sales,1987
+2446,North,Marketing,2177
+2447,Pacific,Customer Service,1869
+2448,North,IT,3317
+2449,Pacific,Sales,4532
+2450,East,HR,4691
+2451,Pacific,Marketing,4304
+2452,Central,Sales,4708
+2453,Central,Logistics,4900
+2454,South,Finance,460
+2455,West,Sales,2547
+2456,North,Sales,3702
+2457,West,Sales,4570
+2458,East,HR,3048
+2459,Pacific,Sales,3682
+2460,Central,Marketing,1411
+2461,East,Marketing,4066
+2462,Central,Logistics,3231
+2463,South,HR,124
+2464,East,Marketing,212
+2465,Pacific,Marketing,3984
+2466,West,Sales,3569
+2467,South,HR,3192
+2468,East,Marketing,415
+2469,West,Marketing,602
+2470,Central,Sales,1107
+2471,Pacific,Finance,3149
+2472,South,Marketing,824
+2473,West,Marketing,2032
+2474,South,IT,2810
+2475,South,Sales,80
+2476,West,IT,4361
+2477,West,Customer Service,2163
+2478,South,Customer Service,2993
+2479,West,IT,3823
+2480,Pacific,Sales,4396
+2481,South,IT,3958
+2482,Central,Logistics,1094
+2483,South,Sales,2656
+2484,Central,Marketing,4412
+2485,East,Logistics,1836
+2486,North,HR,3709
+2487,East,Sales,1065
+2488,North,Logistics,3240
+2489,Central,Logistics,406
+2490,West,HR,1024
+2491,South,HR,995
+2492,East,Logistics,1904
+2493,Pacific,IT,4445
+2494,West,IT,2838
+2495,East,Finance,4895
+2496,North,HR,3243
+2497,South,HR,4066
+2498,Pacific,IT,1078
+2499,North,Logistics,3499
+2500,North,Finance,4489
+2501,South,HR,288
+2502,South,Finance,1443
+2503,West,Marketing,4627
+2504,South,Marketing,2128
+2505,Central,Marketing,3163
+2506,East,HR,2331
+2507,Pacific,Marketing,1294
+2508,South,Logistics,1378
+2509,East,IT,822
+2510,West,Finance,520
+2511,East,Marketing,307
+2512,East,IT,4957
+2513,South,HR,4028
+2514,South,Finance,4201
+2515,Pacific,IT,3860
+2516,Pacific,HR,478
+2517,East,Finance,2429
+2518,Central,Customer Service,3058
+2519,Central,IT,624
+2520,West,Customer Service,1765
+2521,Central,Sales,218
+2522,Central,HR,998
+2523,Pacific,HR,4366
+2524,Central,IT,707
+2525,Pacific,Marketing,4151
+2526,West,Marketing,4958
+2527,South,Logistics,4395
+2528,Pacific,Marketing,2133
+2529,Central,Finance,941
+2530,Pacific,Finance,1452
+2531,Pacific,HR,1787
+2532,South,Customer Service,2637
+2533,West,Finance,4238
+2534,North,Logistics,2795
+2535,North,HR,1741
+2536,South,Marketing,1394
+2537,Pacific,IT,2290
+2538,Central,Customer Service,1568
+2539,Central,HR,1876
+2540,Pacific,Marketing,2269
+2541,Pacific,Sales,536
+2542,North,Finance,1463
+2543,West,Logistics,83
+2544,East,Customer Service,2213
+2545,West,Finance,2351
+2546,East,Customer Service,2416
+2547,Central,HR,1576
+2548,North,IT,2961
+2549,East,Marketing,4522
+2550,East,Finance,2949
+2551,East,Marketing,367
+2552,Pacific,HR,858
+2553,East,Finance,4452
+2554,South,IT,3032
+2555,North,Finance,3773
+2556,South,Logistics,2723
+2557,South,Customer Service,662
+2558,South,Sales,1743
+2559,East,Finance,3847
+2560,West,IT,1931
+2561,Pacific,Finance,4202
+2562,Pacific,Logistics,1194
+2563,Pacific,Logistics,3497
+2564,Central,Marketing,3016
+2565,East,IT,1469
+2566,Pacific,Logistics,3934
+2567,Central,HR,1855
+2568,Pacific,Marketing,4991
+2569,North,IT,3645
+2570,East,Marketing,3399
+2571,North,HR,450
+2572,North,HR,2740
+2573,Pacific,IT,4203
+2574,West,Sales,2608
+2575,South,HR,1525
+2576,Central,IT,274
+2577,North,Marketing,120
+2578,Pacific,Finance,1183
+2579,East,Sales,3574
+2580,Pacific,Finance,4024
+2581,West,Logistics,748
+2582,Central,Logistics,3988
+2583,North,Marketing,3338
+2584,Central,Logistics,248
+2585,Central,IT,848
+2586,North,Sales,2907
+2587,Central,Customer Service,2442
+2588,Pacific,IT,3337
+2589,East,Marketing,4746
+2590,South,Marketing,4925
+2591,Central,Finance,1701
+2592,North,HR,4995
+2593,Central,Finance,4985
+2594,Central,HR,3083
+2595,East,Finance,225
+2596,North,Logistics,447
+2597,North,Marketing,4825
+2598,North,Marketing,2796
+2599,North,Customer Service,825
+2600,North,HR,2922
+2601,West,Finance,2553
+2602,North,Marketing,1907
+2603,East,Marketing,2587
+2604,Central,Logistics,3065
+2605,Central,Logistics,2330
+2606,South,Sales,3914
+2607,North,Logistics,3750
+2608,East,Marketing,4846
+2609,East,Logistics,2295
+2610,South,IT,3518
+2611,Pacific,HR,3426
+2612,North,Marketing,4102
+2613,North,HR,4917
+2614,West,Customer Service,2268
+2615,Pacific,Marketing,697
+2616,North,Marketing,4255
+2617,East,HR,4669
+2618,Central,Sales,1893
+2619,North,Finance,3514
+2620,North,Logistics,1322
+2621,Pacific,Logistics,4067
+2622,Central,Logistics,1473
+2623,Pacific,Sales,883
+2624,East,Marketing,1932
+2625,North,IT,2898
+2626,North,Customer Service,2909
+2627,Pacific,IT,1697
+2628,Pacific,Sales,1015
+2629,South,Sales,1926
+2630,North,IT,2009
+2631,Central,Marketing,814
+2632,South,Sales,2475
+2633,East,IT,3690
+2634,South,Marketing,1117
+2635,North,Marketing,3027
+2636,South,HR,1880
+2637,Pacific,Marketing,1039
+2638,South,Customer Service,2663
+2639,Central,HR,208
+2640,East,Sales,801
+2641,East,Customer Service,4891
+2642,Pacific,Finance,1668
+2643,Pacific,Logistics,4686
+2644,East,Finance,239
+2645,East,Logistics,2613
+2646,West,Marketing,1390
+2647,North,Customer Service,1878
+2648,North,Customer Service,4116
+2649,North,HR,4404
+2650,West,Customer Service,1858
+2651,North,Customer Service,1663
+2652,North,Customer Service,2472
+2653,East,Sales,1576
+2654,North,IT,1226
+2655,West,HR,4992
+2656,South,Customer Service,1123
+2657,Pacific,Sales,4080
+2658,South,Customer Service,3263
+2659,West,IT,2969
+2660,Central,Logistics,3493
+2661,Pacific,Sales,965
+2662,South,HR,1135
+2663,North,IT,4056
+2664,East,Sales,3181
+2665,South,Customer Service,677
+2666,West,Customer Service,3703
+2667,North,IT,4635
+2668,West,IT,1726
+2669,West,Customer Service,4849
+2670,North,IT,3383
+2671,South,Customer Service,2014
+2672,East,Finance,1047
+2673,East,Sales,2223
+2674,West,Customer Service,2020
+2675,East,Marketing,3149
+2676,Central,Customer Service,3791
+2677,East,Sales,3770
+2678,West,HR,3090
+2679,South,Finance,3448
+2680,Pacific,Finance,4665
+2681,Pacific,Finance,2838
+2682,Pacific,IT,4665
+2683,South,Finance,2273
+2684,South,Logistics,3114
+2685,South,Finance,4750
+2686,Central,Sales,425
+2687,South,Logistics,4687
+2688,East,Marketing,161
+2689,North,Customer Service,2159
+2690,North,HR,3135
+2691,North,Finance,4497
+2692,North,Logistics,301
+2693,East,IT,3492
+2694,Central,Finance,1896
+2695,West,Sales,374
+2696,Pacific,Marketing,102
+2697,East,Marketing,4112
+2698,East,Marketing,3974
+2699,Pacific,Customer Service,3760
+2700,Central,HR,282
+2701,West,Customer Service,4971
+2702,North,Logistics,2263
+2703,West,Finance,4264
+2704,North,Logistics,2642
+2705,West,Finance,3387
+2706,South,Finance,1587
+2707,Central,Marketing,1956
+2708,West,Marketing,982
+2709,South,IT,1213
+2710,Central,HR,1234
+2711,Central,Marketing,2683
+2712,West,IT,3807
+2713,North,IT,4670
+2714,East,IT,1331
+2715,North,Marketing,1357
+2716,East,IT,4590
+2717,West,HR,3192
+2718,South,IT,3927
+2719,West,Marketing,3952
+2720,South,Marketing,371
+2721,West,IT,2038
+2722,Pacific,Customer Service,4502
+2723,Central,Sales,3810
+2724,West,Marketing,4276
+2725,Pacific,Marketing,3751
+2726,North,Customer Service,4283
+2727,East,Marketing,645
+2728,Pacific,Finance,2889
+2729,East,Logistics,1739
+2730,Pacific,Logistics,666
+2731,North,Logistics,4749
+2732,Pacific,IT,3276
+2733,East,HR,3396
+2734,North,Logistics,3152
+2735,Central,HR,2625
+2736,Pacific,Finance,1026
+2737,North,Marketing,4646
+2738,Central,Customer Service,3091
+2739,South,IT,3800
+2740,East,Sales,1420
+2741,Central,Finance,494
+2742,West,Finance,1767
+2743,North,HR,2333
+2744,West,Marketing,3412
+2745,North,Logistics,4425
+2746,Central,Customer Service,2345
+2747,Pacific,Marketing,1703
+2748,West,HR,3880
+2749,Central,IT,3574
+2750,West,HR,391
+2751,West,Marketing,2108
+2752,Central,Logistics,2307
+2753,West,Customer Service,4459
+2754,South,Customer Service,1979
+2755,North,HR,2510
+2756,South,Customer Service,900
+2757,North,IT,1766
+2758,North,Sales,3569
+2759,East,IT,3470
+2760,South,Sales,4782
+2761,South,Customer Service,1379
+2762,West,Marketing,1709
+2763,West,IT,3282
+2764,West,Sales,2382
+2765,South,HR,2400
+2766,Pacific,HR,1909
+2767,West,Sales,4293
+2768,South,Customer Service,2225
+2769,Pacific,Finance,1643
+2770,Central,Logistics,322
+2771,South,Sales,2217
+2772,Pacific,Customer Service,3981
+2773,Central,Sales,3108
+2774,North,Marketing,2535
+2775,West,Finance,3708
+2776,Pacific,Customer Service,468
+2777,West,Logistics,2661
+2778,South,Customer Service,3423
+2779,Pacific,HR,3616
+2780,Pacific,Finance,1126
+2781,West,Sales,2463
+2782,Central,Sales,1019
+2783,West,Customer Service,3179
+2784,East,Marketing,2701
+2785,East,Marketing,3210
+2786,Central,Customer Service,2681
+2787,South,Customer Service,1209
+2788,South,Sales,1569
+2789,Central,Customer Service,2238
+2790,South,Marketing,4407
+2791,West,Marketing,3768
+2792,Pacific,Sales,4114
+2793,East,Finance,1492
+2794,East,HR,1235
+2795,North,Marketing,3951
+2796,Pacific,IT,1663
+2797,Pacific,Sales,97
+2798,Central,IT,1304
+2799,Pacific,Customer Service,913
+2800,North,Marketing,1411
+2801,West,Sales,1701
+2802,South,Marketing,1970
+2803,North,Logistics,4649
+2804,Pacific,Logistics,4924
+2805,West,Finance,2689
+2806,East,Logistics,842
+2807,East,HR,715
+2808,East,Customer Service,4974
+2809,North,Customer Service,3777
+2810,South,Logistics,2655
+2811,North,HR,571
+2812,Central,HR,2471
+2813,Pacific,Logistics,3656
+2814,North,Sales,345
+2815,South,Sales,330
+2816,Pacific,Finance,825
+2817,North,Logistics,2872
+2818,East,HR,86
+2819,Central,Finance,1940
+2820,North,Logistics,4541
+2821,Central,Finance,3337
+2822,East,Logistics,141
+2823,Pacific,HR,4319
+2824,Central,Customer Service,3300
+2825,East,Finance,4039
+2826,South,Sales,4152
+2827,Pacific,Logistics,1781
+2828,West,Customer Service,1505
+2829,East,Marketing,72
+2830,North,Logistics,2623
+2831,East,Marketing,3660
+2832,South,Marketing,2506
+2833,Central,Logistics,2327
+2834,West,Customer Service,1791
+2835,West,HR,598
+2836,West,IT,1200
+2837,Pacific,IT,3410
+2838,Pacific,Logistics,1859
+2839,East,HR,2509
+2840,East,Logistics,2767
+2841,West,Sales,77
+2842,South,HR,2996
+2843,Central,Marketing,3471
+2844,North,Sales,2172
+2845,Central,HR,3585
+2846,Pacific,Logistics,188
+2847,Central,Finance,4854
+2848,South,Customer Service,2627
+2849,East,Finance,3162
+2850,North,Sales,1349
+2851,Central,Finance,1214
+2852,Central,Logistics,1649
+2853,North,IT,2507
+2854,East,Logistics,726
+2855,Pacific,Marketing,4345
+2856,West,Logistics,1547
+2857,North,HR,3585
+2858,Central,HR,1238
+2859,Pacific,Finance,223
+2860,North,HR,4154
+2861,West,IT,3334
+2862,Central,Finance,4683
+2863,East,HR,1387
+2864,Central,IT,2713
+2865,Pacific,HR,3589
+2866,Pacific,Customer Service,2245
+2867,East,Sales,954
+2868,South,Customer Service,158
+2869,Pacific,IT,2117
+2870,South,Marketing,2656
+2871,North,Finance,3631
+2872,South,HR,666
+2873,Central,Customer Service,3885
+2874,Central,Sales,2206
+2875,Pacific,Sales,2226
+2876,Pacific,HR,3385
+2877,Pacific,IT,1127
+2878,Central,Customer Service,91
+2879,Pacific,HR,1302
+2880,East,Finance,2886
+2881,South,Marketing,1627
+2882,Pacific,HR,2482
+2883,Central,Sales,1757
+2884,East,Finance,876
+2885,East,Logistics,1319
+2886,West,IT,1060
+2887,Central,Marketing,3655
+2888,West,Customer Service,3741
+2889,East,Marketing,2279
+2890,West,Customer Service,587
+2891,East,Logistics,4153
+2892,Pacific,HR,1054
+2893,South,Sales,1061
+2894,East,HR,2069
+2895,Pacific,Marketing,1030
+2896,Central,Finance,3353
+2897,Pacific,HR,4113
+2898,North,Sales,1235
+2899,Pacific,IT,3147
+2900,East,HR,203
+2901,West,Customer Service,722
+2902,North,Customer Service,3794
+2903,South,Customer Service,3364
+2904,Central,Sales,268
+2905,East,HR,525
+2906,West,Marketing,2676
+2907,Central,Sales,4759
+2908,East,Marketing,4630
+2909,Pacific,IT,1780
+2910,East,Marketing,1589
+2911,Central,Customer Service,2275
+2912,West,Customer Service,4830
+2913,East,Sales,104
+2914,South,Marketing,3267
+2915,West,Finance,742
+2916,Central,Logistics,3195
+2917,North,Marketing,3393
+2918,Central,Customer Service,3346
+2919,Pacific,IT,4299
+2920,North,IT,2263
+2921,Central,Customer Service,4892
+2922,East,Marketing,3755
+2923,South,Marketing,1180
+2924,Central,HR,2247
+2925,West,IT,2185
+2926,West,Logistics,924
+2927,East,Logistics,4333
+2928,Pacific,Sales,3213
+2929,Pacific,Logistics,2526
+2930,South,Customer Service,356
+2931,Pacific,Marketing,1107
+2932,Central,Sales,198
+2933,Pacific,Logistics,4055
+2934,North,HR,1878
+2935,East,Logistics,2984
+2936,Pacific,Finance,3499
+2937,West,Customer Service,2651
+2938,West,Finance,4561
+2939,North,Customer Service,4117
+2940,East,Marketing,106
+2941,East,Marketing,242
+2942,West,Finance,2225
+2943,North,Customer Service,4252
+2944,North,Sales,3935
+2945,East,Sales,4300
+2946,Pacific,Logistics,1164
+2947,Pacific,Marketing,2458
+2948,Central,Marketing,4132
+2949,Pacific,Customer Service,177
+2950,West,HR,3458
+2951,East,Sales,2203
+2952,East,Logistics,2551
+2953,Central,HR,2744
+2954,North,Sales,4785
+2955,Pacific,Marketing,179
+2956,East,Finance,934
+2957,South,Finance,3205
+2958,Central,Finance,1019
+2959,West,Sales,2418
+2960,West,Marketing,3526
+2961,Pacific,IT,2999
+2962,East,Customer Service,4037
+2963,South,Finance,2320
+2964,West,Sales,2079
+2965,East,Finance,2033
+2966,Pacific,Customer Service,3724
+2967,Central,HR,4528
+2968,East,Marketing,1844
+2969,North,Sales,1231
+2970,South,IT,3025
+2971,Central,Finance,989
+2972,South,IT,3419
+2973,East,Customer Service,2168
+2974,Central,Finance,2521
+2975,West,Logistics,4335
+2976,North,Customer Service,4717
+2977,Pacific,Sales,4352
+2978,Central,IT,2750
+2979,West,HR,3481
+2980,West,Customer Service,2057
+2981,West,Sales,1804
+2982,Pacific,HR,4911
+2983,East,HR,4225
+2984,West,IT,1296
+2985,East,HR,2011
+2986,West,Customer Service,4764
+2987,West,Sales,2569
+2988,West,Marketing,2614
+2989,West,Sales,1410
+2990,South,Sales,3740
+2991,South,Customer Service,1973
+2992,West,Finance,744
+2993,East,Sales,1838
+2994,Central,HR,2425
+2995,West,IT,3599
+2996,South,Marketing,72
+2997,West,Sales,3612
+2998,West,Logistics,4120
+2999,South,Customer Service,1265

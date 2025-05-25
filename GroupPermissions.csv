@@ -1,0 +1,41 @@
+AccessGroup,Region,Department
+Sales,North,Sales
+Sales,North,Marketing
+Sales,West,Marketing
+Sales,Central,HR
+Sales,South,HR
+Marketing,South,HR
+Marketing,East,Logistics
+Marketing,West,HR
+Marketing,East,Logistics
+Marketing,South,IT
+HR,South,Customer Service
+HR,North,Finance
+HR,Central,HR
+HR,North,HR
+HR,East,Finance
+Executive,Central,Logistics
+Executive,South,Finance
+Executive,North,Logistics
+Executive,West,Finance
+Executive,South,Logistics
+IT,East,Logistics
+IT,East,Marketing
+IT,North,Finance
+IT,West,Marketing
+IT,Central,Sales
+Finance,East,Marketing
+Finance,South,Sales
+Finance,West,IT
+Finance,Central,Finance
+Finance,North,Customer Service
+Operations,East,Finance
+Operations,Pacific,Logistics
+Operations,South,Customer Service
+Operations,Central,Finance
+Operations,North,Finance
+Support,South,Sales
+Support,North,Logistics
+Support,North,Logistics
+Support,West,Finance
+Support,East,Finance
